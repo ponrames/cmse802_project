@@ -1,6 +1,6 @@
 # cmse802_project
 
-## Energy Demand Spike Prediction Project
+## Energy Demand Spike and Load Forecast Project
 
 ## Project Overview
 
