@@ -86,7 +86,7 @@ You can download the historical energy consumption data directly from the **NYIS
 The LSTM model provided the most accurate predictions, with a low MAE and RMSE. It was able to forecast demand spikes with greater precision compared to traditional time series models.
 
 ### Key Results:
-- Best model: **LSTM Neural Network**
+- Best model: ** Yet to be Decided**
 - **MAE**: X (value)
 - **RMSE**: Y (value)
 - **R² Score**: Z (value)
@@ -131,12 +131,4 @@ Contributions are welcome! Please open an issue or submit a pull request to disc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-### Notes:
-- Update the **repository link** in the `git clone` step with your actual GitHub repo link.
-- Adjust the **results** section with actual results from your project once you have trained your models.
-- The **requirements.txt** file should contain the libraries you use (e.g., pandas, scikit-learn, tensorflow, etc.).
-- The **dataset** section can be updated with the actual dataset you are using (e.g., provide a link if publicly available).
-
-This README gives a clear overview of the project, installation steps, and usage instructions, making it easier for others to understand and contribute to your work.
