@@ -5,3 +5,4 @@ scikit-learn
 pmdarima
 requests
 beautifulsoup4
+fbprophet
