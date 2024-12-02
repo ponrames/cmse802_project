@@ -4,7 +4,7 @@ from prophet import Prophet
 from sklearn.metrics import mean_squared_error
 
 # Load the CSV file into a DataFrame
-file_path = '/Users/rohan/Documents/MSU/Classes/CMSE  802/project/cmse802_project/data/raw/GENESE.csv'
+file_path = '/Users/rohan/Documents/MSU/Classes/CMSE  802/project/cmse802_project/data/processed/combined_data.csv'
 df = pd.read_csv(file_path, parse_dates=['Time Stamp']).dropna()
 
 
